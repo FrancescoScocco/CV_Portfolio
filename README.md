@@ -1,6 +1,6 @@
 # Hi, I'm Francesco Scocco 👋
 
-**AI Engineer & Full-Stack Software Engineer** based in Switzerland 🇨🇭
+**AI Engineer & Full-Stack Software Engineer**
 
 I build scalable backend systems and production-grade multi-agent AI architectures. Currently focused on designing autonomous agentic pipelines that replace manual enterprise workflows with intelligent systems — using Python, LangGraph, and PydanticAI.
 
@@ -64,4 +64,4 @@ At **Itworks Srl**, I design custom multi-agent AI architectures for enterprise 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescoscocco)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/francescoscocco)
-📞 +41 76 218 77 19
+📞 +39 351 602 5245
