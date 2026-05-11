@@ -1,6 +1,6 @@
 # Hi, I'm Francesco Scocco 👋
 
-**AI Engineer & Full-Stack Software Engineer** based in Switzerland 🇨🇭
+**AI Engineer & Full-Stack Software Engineer**
 
 I build scalable backend systems and production-grade multi-agent AI architectures. Currently focused on designing autonomous agentic pipelines that replace manual enterprise workflows with intelligent systems — using Python, LangGraph, and PydanticAI.
 
